@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl programming related to the `expr` command. The `expr` command is used for mathematical and logical expressions, but improper input handling can lead to unexpected results or errors.  The bug.tcl file contains the erroneous code and bugSolution.tcl contains the corrected version.
